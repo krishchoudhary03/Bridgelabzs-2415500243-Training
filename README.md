@@ -1,5 +1,9 @@
 # Bridgelabz-2415500243-Training
 
+*Name:krish choudhary 
+*University Roll No.: 2415500243
+*Class Roll No.: 28
+
 ### Java Learning Log
 
 *August 11–13, 2025*
